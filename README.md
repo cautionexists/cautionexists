@@ -42,7 +42,7 @@
  
   ### ``Contact me on Discord:``
  
-  [Caution's discord](https://discordapp.com/users/232063271740506112)
+  (🎯[Caution's discord](https://discordapp.com/users/232063271740506112))
  
 </div>
 
@@ -58,5 +58,4 @@
 </div>
 
 <div align="center">
- 
- ‎ (🎯[Contact Me](#contact-me-on-discord) )
+
