@@ -40,14 +40,11 @@
 <br>
 
  
-  ### ``Contact me on Discord:``
- 
-  (🎯[Caution's discord](https://discordapp.com/users/232063271740506112))
- 
 </div>
 
 <br>
 
+### ⚙️ &nbsp;GitHub Analytics
 <div align="center">
  
    **Stats**                 | **Top Languages**
@@ -56,6 +53,12 @@
 
  
 </div>
+
+<div align="center">
+
+### 🎯 &nbsp;Contact Me On Discord
+ 
+  [Caution's discord](https://discordapp.com/users/232063271740506112) 
 
 <div align="center">
 
