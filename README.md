@@ -47,12 +47,10 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center">
  
-   **Stats**                 | **Top Languages**
-  :-------------------------:|:-------------------------:
- <img src="https://readme-stats-thegoldenpro.vercel.app/api?username=cautionexists&show_icons=true&theme=gruvbox%22" width="600px"/> <br> (If it BREAKS press **``CTRL + SHIFT + R``**)  |  <img align="right" src="https://readme-stats-thegoldenpro.vercel.app/api/top-langs/?username=cautionexists&theme=gruvbox" width="330px"/>
-
- 
-</div>
+<a href="https://github.com/superzackx">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cautionexists&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cautionexists&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 
 <div align="center">
 
