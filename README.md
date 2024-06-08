@@ -1,19 +1,17 @@
-<img align="right" src="https://user-images.githubusercontent.com/66202304/218335076-6a3c08b2-911c-4c5e-b699-d0bd827f8f38.gif" width="350" height="250">
-
 <img alt="Night Coding" src="./assets/HandWave.gif" width='40' align="left"/><h2>Hey there! I'm Caution.</h2>
 
 <div align="left">
- 
+
+<img align="right" src="https://user-images.githubusercontent.com/66202304/218335076-6a3c08b2-911c-4c5e-b699-d0bd827f8f38.gif" width="350" height="250"> 
  
 </div>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I'm learning JavaScript, C and Python.\
-🎮 &nbsp;In my free time, I play games like Minecraft and Muck.\
+🌱 &nbsp;I'm learning various languages at the moment.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at dragon@dragonizedpizza.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at disxord.2016@gmail.com I'll try to respond as soon as I can.
  
 ### 🛠 &nbsp;Tech Stack
 
