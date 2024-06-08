@@ -39,9 +39,6 @@
 
 <br>
 
-## <div align="middle"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2300&pause=1000&color=FFEB65DC&center=true&vCenter=true&width=800&height=30&lines=It's+not+a+bug!;Cosmic+rays+have+hit+your+system!) </div>
-
-<div align="middle">
  
   ### ``Contact me on Discord:``
  
