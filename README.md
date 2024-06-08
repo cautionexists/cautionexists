@@ -7,9 +7,13 @@
  
 </div>
 
-<div align="center">
+### 👨🏻‍💻 &nbsp;About Me
 
-##### *I'm a Full-Stack Developer. I mostly build for the web, which is the most accessible and flexible platform. I enjoy building both sleek User Experiences and productive Developer Experiences.*
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🌱 &nbsp;I'm learning JavaScript, C and Python.\
+🎮 &nbsp;In my free time, I play games like Minecraft and Muck.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at dragon@dragonizedpizza.com! I'll try to respond as soon as I can.
  
 ### 🛠 &nbsp;Tech Stack
 
