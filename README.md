@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/cautionexists/C-Ground/assets/140883585/ae00b552-2017-48d9-9a31-3a7ec0dbb735"> 
  
-<div align="left">
+<br>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
