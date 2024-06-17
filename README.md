@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/HandWave.gif" width='40' align="left"/><h2>Hey there! I'm Caution.</h2>
+<h1 align="center"><b>Hey there! I'm Caution.</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="left">
 
