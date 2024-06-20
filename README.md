@@ -4,13 +4,15 @@
  
 <p align="center">
 
+
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I'm learning various languages at the moment.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at disxord.2016@gmail.com I'll try to respond as soon as I can.
- 
+𒆳 Currently working on Open source.
+
+𒆳 I love to hate CMake and I strive to achieve code that is cross-platform, robust and elegantly organized in a neat architecture.
+
+𒆳 I suck at backend so don't even bother to ask me (for your own sake, that is).
+
 <p align="center">
    <a href="https://discord.com/users/232063271740506112">
       <img src="https://lanyard.cnrad.dev/api/232063271740506112" />
@@ -58,9 +60,5 @@
 
 <div align="center">
 
-### 🎯 &nbsp;Contact Me On Discord
- 
-  [Caution's discord](https://discordapp.com/users/232063271740506112) 
 
-<div align="center">
 
