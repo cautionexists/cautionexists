@@ -11,6 +11,12 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at disxord.2016@gmail.com I'll try to respond as soon as I can.
  
+<p align="center">
+   <a href="https://discord.com/users/232063271740506112">
+      <img src="https://lanyard.cnrad.dev/api/232063271740506112" />
+   </a>
+</p>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![C Sharp](https://img.shields.io/badge/-C_Sharp-05122A?style=flat&logo=Csharp)
