@@ -1,6 +1,10 @@
 <h1 align="center"><b>Hey there! I'm Caution.</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" src="https://github.com/cautionexists/C-Ground/assets/140883585/ae00b552-2017-48d9-9a31-3a7ec0dbb735"> 
+<p align="center">
+   <a href="https://discord.com/users/232063271740506112">
+      <img src="https://lanyard.cnrad.dev/api/232063271740506112" />
+   </a>
+</p>
  
 <p align="center">
 
@@ -13,11 +17,6 @@
 
 𒆳 I suck at backend so don't even bother to ask me (for your own sake, that is).
 
-<p align="center">
-   <a href="https://discord.com/users/232063271740506112">
-      <img src="https://lanyard.cnrad.dev/api/232063271740506112" />
-   </a>
-</p>
 
 ### 🛠 &nbsp;Tech Stack
 
